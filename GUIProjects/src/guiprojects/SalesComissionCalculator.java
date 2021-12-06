@@ -1,7 +1,9 @@
+
+/*
+ Java application that inputs one salesperson’s items sold for last week and calculates and
+displays that salesperson’s earnings
+*/
 package guiprojects;
-
-
-//4.19  SALES COMISSION CALCULATOR
 
 import java.util.Scanner;
 import javax.swing.JOptionPane;
